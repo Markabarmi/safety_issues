@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report a Safety Issue">4291f2de2f6b0110bccd59ab2799b63a</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 08:18:32</sys_created_on>
+        <sys_id>43a4b6922fab0110bccd59ab2799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_722079_safety">d75608d62f230110bccd59ab2799b6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">d75608d62f230110bccd59ab2799b6d3</sys_scope>
+        <sys_update_name>sc_cat_item_category_43a4b6922fab0110bccd59ab2799b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 08:18:32</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
